@@ -36,25 +36,27 @@ In order to work on this repository you will first need to clone it.
 
 - Inital home screen
   
-
+![home_screen](https://github.com/user-attachments/assets/838a0b70-4af1-4b7f-8d13-ef141a2b6d17)
 
 
 - Enter a transaction
   
-
+![add_transaction](https://github.com/user-attachments/assets/11801042-c419-4839-882c-40287b49f776)
 
 
 - View transactions and summary
   
-
+![view_transactions](https://github.com/user-attachments/assets/5a6bf383-aa70-41da-9f48-29eefde7758a)
 
 
 - View a plot
   
+![plot_transactions](https://github.com/user-attachments/assets/be5ca5e6-62a8-474f-b578-64c8f11acd1d)
 
 
+- Exit program
 
-
+![exit_program](https://github.com/user-attachments/assets/d6af4e5f-5673-4289-a249-23b8451d4f71)
 
 
 ## Features
